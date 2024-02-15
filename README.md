@@ -19,9 +19,9 @@ I also provide a few learning resources on [Machine Learning for Embedded](https
 
 ### Experience 
 * Yonsei Physics Lab Internship Program: [Advanced Semiconductor Physics Lab](http://aspl.yonsei.ac.kr/), [Laboratory for innovative functional materials](https://sites.google.com/view/lifm349/professor)
-* Coding Session Host in Yonsei ISSU (IT specialist academic Group), 1 year
-* E-sports journalist in MHN media, 1.5 year
-* Currently working in VAIV company, Text data analyst(2021~)
+* Coding Session Host in Yonsei ISSU (IT specialist academic group), 1 year
+* E-sports Journalist in MHN media, 1.5 year
+* Currently Working in VAIV company, Text data analyst(2021~)
 
 ### Education 🎓
 * Bachelor of Science in Physics. Yonsei University, South Korea(Seoul Campus)
@@ -30,6 +30,6 @@ I also provide a few learning resources on [Machine Learning for Embedded](https
 ### Publication
 
 ### Certificates
-Digital fabrication. 3d-printing, CNC machining, laser-cutting.
+TBA
 
 ### Mentoring
