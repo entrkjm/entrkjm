@@ -16,7 +16,7 @@ I also provide a few learning resources on [Machine Learning for Embedded](https
     Java
 
 ### Experience 
-* I have been through various fields including semiconductor physics, e-sports news, IT and data analysis / engineering
+**I have been through various fields including semiconductor physics, e-sports news, IT and data analysis / engineering**
 
 * Yonsei Physics Lab Internship Program: [Advanced Semiconductor Physics Lab](http://aspl.yonsei.ac.kr/), [Laboratory for innovative functional materials](https://sites.google.com/view/lifm349/professor)
 * Coding session host in Yonsei ISSU (IT specialist academic group), 1 year
