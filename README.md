@@ -19,7 +19,7 @@ These days, I am particularly interested in **Natural Language Processing(NLP), 
 I also provide a few learning resources on [Machine Learning for Embedded](https://github.com/jonnor/embeddedml), and [Machine Learning for Audio](https://github.com/jonnor/machinehearing/). -->
 
 ### Portfolios
-* [Data structure and algorithms with Python](https://github.com/entrkjm/Python-DSAL)
+* [Data structure and algorithms with Python](https://github.com/entrkjm/DataStructure-Algorithm)
 
 ### Programming Language 😎
     Python 
