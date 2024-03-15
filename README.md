@@ -3,8 +3,10 @@
 
 ### Summary
 - I'm data analyst specializing in text data from the social media.
+  
 - I'm in charge of optimazation for large-scale text data importing on cloud storages by writing efficient queries,
 and data analysis using python, which includes table manipulation(aggeregation, clustering) and visualization.
+
 - I'm also working on intermediary automation tools as a bridge between data engineers and buisness side employees, to help obtain visualized outupts(using python).
 
 + Youtube Creator(with +60k subscribers). In this channel, we share business insight for marketers and brand managers, since our main target of data analysis is text data from social media users. As a result of our data configuration, analysis, visualization, we're gaining valuable insights, and the youtube channel is one window to share.
