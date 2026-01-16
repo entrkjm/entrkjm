@@ -9,9 +9,8 @@
 I specialize in building **autonomous data pipelines** and **multi-modal AI agents** that understand human trends.
 My background spans **Semiconductor Physics** to **Social Big Data Mining**, giving me a unique "First Principles" approach to engineering.
 
-*   🔭 **Currently working on:** **Multi-modal Agent Systems** (converting images/video into structured market intelligence) & **Local LLM Infrastructure** (ROMA).
-*   📢 **Creator:** Run a tech/data insight channel **[생활변화관측소]** with **120k+ subscribers**, analyzing social phenomena through data.
-*   ⚡ **Core Philosophy:** "Data isn't just numbers; it's the footprint of human behavior. AI is the lens to read it."
+*   **Currently working on:** **Multi-modal Agent Systems** (converting images/video into structured market intelligence) & **Local LLM Infrastructure** (ROMA).
+*   **Creator:** Run a tech/data insight channel **[생활변화관측소]** with **120k+ subscribers**, analyzing social phenomena through data.
 
 ---
 
