@@ -57,7 +57,7 @@ My background spans **Semiconductor Physics** to **Social Big Data Mining**, giv
   <a href="[https://youtube.com/@your_channel](https://youtube.com/@lifechange_observatory?si=6FyexjMi2wAUidct)">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/entrkjm">
+  <a href="https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EA%B9%80-435048219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
