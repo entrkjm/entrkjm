@@ -51,13 +51,13 @@ My background spans **Semiconductor Physics** to **Social Big Data Mining**, giv
 ---
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:entrkjm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@your_channel">
+  <a href="[https://youtube.com/@your_channel](https://youtube.com/@lifechange_observatory?si=6FyexjMi2wAUidct)">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your_profile">
+  <a href="https://linkedin.com/in/entrkjm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
